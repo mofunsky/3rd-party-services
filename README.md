@@ -16,3 +16,6 @@ collection of some useful 3rd-party-services which  is   plug and play
 
 [火信区域识别服务](http://www.hotsent.com/)
   * LBS服务，火信区域识别服务可以根据用户所在位置，识别用户处于哪个地标性建筑或区域内。
+
+[语音云](http://open.voicecloud.cn/)
+  * 语音云;科大讯飞出品的语音识别及语音相关服务。
