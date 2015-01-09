@@ -19,3 +19,6 @@ collection of some useful 3rd-party-services which  is   plug and play
 
 [语音云](http://open.voicecloud.cn/)
   * 语音云;科大讯飞出品的语音识别及语音相关服务。
+
+[Dnspod](https://www.dnspod.cn/)
+  * 免费的DNS解析服务。
